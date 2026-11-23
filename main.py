@@ -1,3 +1,4 @@
+#comentario
 from datetime import date
 
 from producto import Producto
